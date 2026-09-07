@@ -1,4 +1,4 @@
-# Paginazione Colore
+# Color Pagination
 
 ![PHP](https://img.shields.io/badge/PHP-application-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-database-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -73,4 +73,4 @@ No automated tests, dependency manifest, build configuration, or continuous-inte
 
 ## License
 
-No license file or explicit license declaration is included in the repository.
+This project is shared for educational and portfolio purposes. All rights reserved unless otherwise stated.
